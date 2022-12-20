@@ -50,7 +50,7 @@ tags:
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: 'https://github.com/PaloAltoNetworks/pan-os-ansible'
+repository: 'https://github.com/smigii/pan-os-ansible'
 
 # The URL to any online docs
 documentation: 'https://paloaltonetworks.github.io/pan-os-ansible/'
